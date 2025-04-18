@@ -124,9 +124,7 @@ while (isAlive()) {
       <ul>
         <li>🔭 Building scalable web applications with modern frameworks</li>
         <li>🌱 Exploring microservices architecture and serverless computing</li>
-        <li>👯 Contributing to open-source projects and developer communities</li>
         <li>💬 Specializing in full-stack JavaScript/TypeScript development</li>
-        <li>🧠 Implementing CI/CD pipelines for automated testing and deployment</li>
       </ul>
     </td>
     <td width="50%">
